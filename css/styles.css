@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto";
+  font-style: normal;
+  color: #2e2f42;
+}
+/* Main Page */
+/* PORTFOLIO */
+
+.header {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.web {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  width: 44px;
+  height: 21px;
+  margin: 25.5px 0 25.5px 156px;
+}
+.studio {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  width: 44px;
+  height: 72px;
+  margin: 25.5px 0 25.5px 200px;
+}
+.navigation {
+  display: inline;
+}
+.navigation-items {
+  width: 48px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Top line bg */
