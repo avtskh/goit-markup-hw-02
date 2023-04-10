@@ -10,13 +10,13 @@ body {
 }
 
 /* Main Page */
-.header {
-  font-family: "Raleway";
+.header > a {
+  font-family: "Raleway", sans-serif;
   font-style: normal;
+  color: #4d5ae5;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  color: #4d5ae5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -32,7 +32,7 @@ body {
   list-style: none;
 }
 
-.list-item {
+.list-item > a {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -57,7 +57,7 @@ body {
   font-style: normal;
 }
 
-.contact {
+.contact > a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
