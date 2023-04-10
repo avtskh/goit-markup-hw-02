@@ -1,6 +1,12 @@
 body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
+
+:root {
+  background-color: #ffffff;
+}
+
 /* Main Page */
