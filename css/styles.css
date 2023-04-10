@@ -10,3 +10,62 @@ body {
 }
 
 /* Main Page */
+.header {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  color: #4d5ae5;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.studio {
+  color: #2e2f42;
+}
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.list-item {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.list-item :hover {
+  color: #404bbf;
+}
+.list-item :focus {
+  color: #404bbf;
+}
+
+.link {
+  list-style: none;
+}
+
+.contacts {
+  font-style: normal;
+}
+
+.contact {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contact :hover {
+  color: #404bbf;
+}
+.contact :focus {
+  color: #404bbf;
+}
