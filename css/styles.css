@@ -197,7 +197,7 @@ body {
 
 .filter-btn {
   background: #f4f4fd;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -212,12 +212,12 @@ body {
 
 .filter-btn :hover {
   background-color: #404bbf;
-  color: #f4f4fd;
+  color: #ffffff;
 }
 
 .filter-btn :focus {
   background-color: #404bbf;
-  color: #f4f4fd;
+  color: #ffffff;
 }
 
 .pic-title {
