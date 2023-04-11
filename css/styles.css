@@ -211,13 +211,13 @@ body {
 }
 
 .filter-btn :hover {
-  background-color: #404bbf;
   color: #ffffff;
+  background-color: #404bbf;
 }
 
 .filter-btn :focus {
-  background-color: #404bbf;
   color: #ffffff;
+  background-color: #404bbf;
 }
 
 .pic-title {
