@@ -210,12 +210,12 @@ body {
   cursor: pointer;
 }
 
-.filter-btn :hover {
+.filter-btns :hover {
   color: #ffffff;
   background-color: #404bbf;
 }
 
-.filter-btn :focus {
+.filter-btns :focus {
   color: #ffffff;
   background-color: #404bbf;
 }
